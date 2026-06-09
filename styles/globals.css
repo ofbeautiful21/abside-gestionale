@@ -10,6 +10,8 @@
 /* Il resto del tuo design system... */
 
 :root {
+   --serif: var(--font-dm-serif), Georgia, serif;
+  --sans: var(--font-dm-sans), system-ui, sans-serif;
   --ivory: #faf8f4;
   --ivory-d: #f0ece3;
   --ivory-dd: #e6dfd4;
